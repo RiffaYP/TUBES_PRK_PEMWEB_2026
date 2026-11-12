@@ -86,7 +86,6 @@ $page_title = "Ubah Kategori Obat";
                     </form>
                 </div>
             </div>
-
                 <?php include '../../backend/admin/layout/footer.php'; ?>
         </main>
     </div>
